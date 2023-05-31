@@ -1,0 +1,37 @@
+.home {
+  width: 100%;
+  max-height: max-content;
+  position: relative;
+  z-index: 9;
+}
+.home img {
+  width: 100%;
+}
+.banner-header {
+  font-weight: 900;
+  font-size: 4rem;
+  line-height: 87px;
+  height: 4rem;
+  color: #ffffff;
+}
+.banner-text {
+  font-weight: 800;
+  font-size: 1.25rem;
+  line-height: 27px;
+  color: #ffffff;
+}
+.banner-description {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+}
+.browse-btn {
+  background: #ca4022;
+  border-radius: 10px;
+  outline: none;
+  border: 0;
+  padding: 0.5rem 1rem;
+  font-weight: 700;
+  font-size: 1rem;
+  color: #fff;
+}

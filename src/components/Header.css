@@ -1,0 +1,20 @@
+.header {
+  background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+  height: 4rem;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+.menu-items.active {
+  font-weight: 700;
+  font-size: 1rem;
+}
+.menu-items {
+  font-weight: 300;
+}
+.menu-links {
+  text-decoration: none;
+  color: #fff;
+}
